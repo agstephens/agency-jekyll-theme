@@ -2,63 +2,47 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Ag Stephens - Head of Partnerships (CEDA)
+email: ag.stephens@stfc.ac.uk
+url: https://github.com/agstephens/agstephens.github.io
+description: "I have over 20 years of working in environmental data management, software development and managing services. During my time at CEDA, I
+have developed, deployed and managed operational services in support of the UK Climate Projections (UKCP), the Copernicus Climate Change Service (C3S)
+ and many other CEDA services. I have worked on a number of high-profile atmospheric and climate projects, including CMIP5/6 and participating the Ear
+th System Grid Federations (ESGF)."
+keywords: "Environment, Data, Web, Processing, Service, Ingestion, Pipeline, Python, Software, CMIP, ESGF, UKCP"
+skills: "Service and Python Developer - Community Liaison - Project Leader"
+meta_author: Ag Stephens
 
 
 # Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
+- name: Ag Stephens
   pic: 2
-  position: Lead Marketer
+  position: Head of Partnerships (CEDA)
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket 
+#    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/agstephens
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+#address:
+#  - line: 3481 Melrose Place
+#  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
