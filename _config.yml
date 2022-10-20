@@ -19,30 +19,30 @@ meta_author: Ag Stephens
   pic: 2
   position: Head of Partnerships (CEDA)
   social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: linkedin
-#      url: #
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-#  - title: twitter
-#    url: http://twitter.com/jekyllrb
-#  - title: facebook
-#    url:
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
-#  - title: bitbucket 
-#    url: http://bitbucket.org/jekyll
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/agstephens
 
 # Postal address (add as many lines as necessary)
 #address:
-#  - line: 3481 Melrose Place
-#  - line: Beverly Hills, CA 90210
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
