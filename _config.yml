@@ -7,41 +7,6 @@ email: ag.stephens@stfc.ac.uk
 url: https://github.com/agstephens/agstephens.github.io
 description: "I have over 20 years of working in environmental data management, software development and managing services. During my time at CEDA, I have developed, deployed and managed operational services in support of the UK Climate Projections (UKCP), the Copernicus Climate Change Service (C3S) and many other CEDA services. I have worked on a number of high-profile atmospheric and climate projects, including CMIP5/6 and participating the Ear th System Grid Federations (ESGF)."
 
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
